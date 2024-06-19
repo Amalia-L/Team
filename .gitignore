@@ -1,0 +1,16 @@
+subfolder/password.txt
+passtest.txt
+picsou.png
+
+
+# .gitignore n'ignore pas les fichier DEJA commité/tracké
+
+
+# ignore tout les dossiers nommés subfolder
+# subfolder/
+
+# le dossier subfolder a la racine du repo
+/subfolder/
+
+# Tous les fichiers finissant par .txt - 
+*.txt 
